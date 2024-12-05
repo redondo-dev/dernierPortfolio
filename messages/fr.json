@@ -1,0 +1,100 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "about": "À propos",
+    "projects": "Projets",
+    "contact": "Contact",
+    "skills": "Compétences",
+    "services": "Services"
+  },
+  "hero": {
+    "greeting": "Bonjour, je suis",
+    "role": "Développeur Full Stack",
+    "description": "Passionné par la création d'applications web innovantes et performantes",
+    "cta": "Voir mes projets"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "description": "Développeur web passionné avec une solide expérience dans la création d'applications web modernes. Je me spécialise dans les technologies JavaScript, notamment React, Node.js et Next.js.",
+    "experience": "Années d'expérience",
+    "projects": "Projets réalisés",
+    "clients": "Clients satisfaits",
+    "text": "Développeur Full Stack passionné, j'ai forgé mon expertise à travers une formation intensive de 8 mois à l'AFPA, complétée par un apprentissage autodidacte continu. Cette double approche m'a permis de développer une compréhension approfondie des technologies web modernes.\n\nMon expertise front-end s'étend sur l'ensemble de l'écosystème React, incluant React.js, Redux, Redux Toolkit, ainsi que les frameworks CSS modernes comme Material UI, React Bootstrap et Tailwind CSS. Cette maîtrise me permet de créer des interfaces utilisateur élégantes et performantes.\n\nCôté back-end, j'ai acquis une solide expérience avec PHP et SQL, et j'ai évolué vers les technologies Node.js, Express et MongoDB, embrassant ainsi les architectures modernes full JavaScript. Cette polyvalence me permet de gérer l'intégralité de la stack technique d'un projet.\n\nEn constante évolution, je me forme actuellement sur Next.js et React Native, avec l'ambition de devenir un développeur Full Stack expert, capable de créer des applications web et mobiles complètes et innovantes.",
+    "downloadCV": "Télécharger CV"
+  },
+  "skills": {
+    "title": "Compétences",
+    "frontend": "Front-end",
+    "backend": "Back-end",
+    "tools": "Outils"
+  },
+  "services": {
+    "title": "Services",
+    "webdev": {
+      "title": "Développement Web",
+      "description": "Création de sites web responsifs et performants"
+    },
+    "mobile": {
+      "title": "Applications Mobiles",
+      "description": "Développement d'applications mobiles natives et hybrides"
+    },
+    "consulting": {
+      "title": "Conseil Technique",
+      "description": "Expertise et conseils en architecture logicielle"
+    },
+    "web_mobile": {
+      "title": "Creation de sites web et mobiles Responsives",
+      "description": "On vous offre une expérience utilisateur optimale sur tous les appareils avec nos créations de sites web entièrement responsive, garantissant une navigation fluide et une présentation impeccable, quel que soit l'écran"
+    },
+    "templates": {
+      "title": "HTML et CSS Templates",
+      "description": "Renforcer votre présence en ligne grâce à nos templates HTML, CSS et ReactJS. Profitez de designs modernes et professionnels pour créer facilement un site web à l'image de votre activité"
+    },
+    "ui_showcase": {
+      "title": "UI & site vitrine",
+      "description": "Façonnez des expériences utilisateur exceptionnelles avec notre approche et Transformez votre présence en ligne avec la conception de sites vitrines, alliant esthétique et convivialité pour présenter votre entreprise de manière captivante et professionnelle."
+    }
+  },
+  "projects": {
+    "title": "Projets",
+    "viewProject": "Voir le projet",
+    "sourceCode": "Code source",
+    "liveDemo": "Démo en ligne",
+    "technologies": "Technologies utilisées"
+  },
+  "contact": {
+    "title": "Contact",
+    "name": "Nom",
+    "email": "Email",
+    "message": "Message",
+    "send": "Envoyer",
+    "sending": "Envoi en cours...",
+    "success": "Message envoyé avec succès !",
+    "error": "Une erreur est survenue. Veuillez réessayer.",
+    "enterYourName": "Entrez votre nom",
+    "enterYourEmail": "Entrez votre email",
+    "enterYourMessage": "Entrez votre message",
+    "firstNameRequired": "Le nom est requis",
+    "emailRequired": "L'email est requis",
+    "emailInvalid": "L'email n'est pas valide",
+    "messageRequired": "Le message est requis",
+    "sendMessage": "Envoyer le message",
+    "messageSentSuccessfully": "Message envoyé avec succès !",
+    "errorSendingMessage": "Erreur lors de l'envoi du message",
+    "errorSendingEmail": "Erreur lors de l'envoi de l'email"
+  },
+  "footer": {
+    "rights": "Tous droits réservés",
+    "madeWith": "Fait avec",
+    "by": "par"
+  },
+  "language": {
+    "select": "Choisir la langue",
+    "current": "Français",
+    "fr": "Français",
+    "en": "Anglais",
+    "es": "Espagnol",
+    "it": "Italien",
+    "ar": "Arabe"
+  }
+}

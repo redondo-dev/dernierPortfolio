@@ -1,0 +1,93 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "Chi sono",
+    "projects": "Progetti",
+    "contact": "Contatti",
+    "skills": "Competenze",
+    "services": "Servizi"
+  },
+  "language": {
+    "select": "Seleziona lingua",
+    "current": "Italiano",
+    "fr": "Francese",
+    "en": "Inglese",
+    "ar": "Arabo",
+    "es": "Spagnolo",
+    "it": "Italiano"
+  },
+  "hero": {
+    "greeting": "Ciao, sono",
+    "role": "Sviluppatore Full Stack",
+    "description": "Creo esperienze digitali eccezionali che combinano design elegante e funzionalità potenti",
+    "cta": "Vedi i miei progetti"
+  },
+  "about": {
+    "title": "Chi sono",
+    "description": "Sviluppatore web appassionato con solida esperienza nella creazione di applicazioni web moderne. Mi specializzo in tecnologie JavaScript, in particolare React, Node.js e Next.js.",
+    "experience": "Anni di Esperienza",
+    "projects": "Progetti Completati",
+    "clients": "Clienti Soddisfatti"
+  },
+  "skills": {
+    "title": "Competenze",
+    "frontend": "Front-end",
+    "backend": "Back-end",
+    "tools": "Strumenti"
+  },
+  "services": {
+    "title": "Servizi",
+    "web_mobile": {
+      "title": "Creazione di Siti Web e Mobile Responsive",
+      "description": "Offriamo un'esperienza utente ottimale su tutti i dispositivi con i nostri siti web completamente responsive, garantendo una navigazione fluida e una presentazione impeccabile su qualsiasi schermo"
+    },
+    "templates": {
+      "title": "Template HTML e CSS",
+      "description": "Rafforza la tua presenza online con i nostri template HTML, CSS e ReactJS. Approfitta di design moderni e professionali per creare facilmente un sito web che rifletta la tua attività"
+    },
+    "ui_showcase": {
+      "title": "UI e Sito Vetrina",
+      "description": "Crea esperienze utente eccezionali e trasforma la tua presenza online con il design di siti vetrina, combinando estetica e facilità d'uso per presentare la tua azienda in modo accattivante e professionale"
+    }
+  },
+  "projects": {
+    "title": "Progetti",
+    "viewProject": "Vedi Progetto",
+    "sourceCode": "Codice Sorgente",
+    "liveDemo": "Demo Live",
+    "technologies": "Tecnologie Utilizzate"
+  },
+  "contact": {
+    "title": "Contatti",
+    "name": "Nome",
+    "email": "Email",
+    "message": "Messaggio",
+    "send": "Invia",
+    "sending": "Invio in corso...",
+    "success": "Messaggio inviato con successo!",
+    "error": "Si è verificato un errore. Per favore riprova.",
+    "enterYourName": "Inserisci il tuo nome",
+    "enterYourEmail": "Inserisci la tua email",
+    "enterYourMessage": "Inserisci il tuo messaggio",
+    "firstNameRequired": "Il nome è obbligatorio",
+    "emailRequired": "L'email è obbligatoria",
+    "emailInvalid": "Email non valida",
+    "messageRequired": "Il messaggio è obbligatorio",
+    "sendMessage": "Invia Messaggio",
+    "messageSentSuccessfully": "Messaggio inviato con successo!",
+    "errorSendingMessage": "Errore nell'invio del messaggio",
+    "errorSendingEmail": "Errore nell'invio dell'email"
+  },
+  "tabs": {
+    "projects": "Progetti",
+    "services": "Servizi",
+    "skills": "Competenze",
+    "about": "Chi sono",
+    "contact": "Contatto"
+  },
+  "footer": {
+    "rights": "Tutti i diritti riservati",
+    "madeWith": "Fatto con",
+    "by": "da"
+  }
+}

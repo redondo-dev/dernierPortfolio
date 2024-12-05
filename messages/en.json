@@ -1,0 +1,88 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact",
+    "skills": "Skills",
+    "services": "Services"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "role": "Full Stack Developer",
+    "description": "Passionate about creating innovative and performant web applications",
+    "cta": "View my projects"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "Passionate web developer with solid experience in creating modern web applications. I specialize in JavaScript technologies, particularly React, Node.js, and Next.js.",
+    "experience": "Years of Experience",
+    "projects": "Projects Completed",
+    "clients": "Happy Clients",
+    "text": "As a passionate Full Stack Developer, I forged my expertise through 8 months of intensive training at AFPA, complemented by continuous self-learning. This dual approach has allowed me to develop a deep understanding of modern web technologies.\n\nMy front-end expertise spans the entire React ecosystem, including React.js, Redux, Redux Toolkit, as well as modern CSS frameworks like Material UI, React Bootstrap, and Tailwind CSS. This mastery enables me to create elegant and performant user interfaces.\n\nOn the back-end, I've gained solid experience with PHP and SQL, and evolved towards Node.js, Express, and MongoDB technologies, embracing modern full JavaScript architectures. This versatility allows me to manage the entire technical stack of a project.\n\nConstantly evolving, I'm currently training on Next.js and React Native, with the ambition to become an expert Full Stack developer, capable of creating complete and innovative web and mobile applications.",
+    "downloadCV": "Download CV"
+  },
+  "skills": {
+    "title": "Skills",
+    "frontend": "Front-end",
+    "backend": "Back-end",
+    "tools": "Tools"
+  },
+  "services": {
+    "title": "Services",
+    "webdev": {
+      "title": "Web Development",
+      "description": "Creation of responsive and performant websites"
+    },
+    "mobile": {
+      "title": "Mobile Applications",
+      "description": "Development of native and hybrid mobile applications"
+    },
+    "consulting": {
+      "title": "Technical Consulting",
+      "description": "Expertise and advice in software architecture"
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "viewProject": "View Project",
+    "sourceCode": "Source Code",
+    "liveDemo": "Live Demo",
+    "technologies": "Technologies Used"
+  },
+  "contact": {
+    "title": "Contact",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "sending": "Sending...",
+    "success": "Message sent successfully!",
+    "error": "An error occurred. Please try again.",
+    "enterYourName": "Enter your name",
+    "enterYourEmail": "Enter your email",
+    "enterYourMessage": "Enter your message",
+    "firstNameRequired": "Name is required",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Email is invalid",
+    "messageRequired": "Message is required",
+    "sendMessage": "Send Message",
+    "messageSentSuccessfully": "Message sent successfully!",
+    "errorSendingMessage": "Error sending message",
+    "errorSendingEmail": "Error sending email"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "madeWith": "Made with",
+    "by": "by"
+  },
+  "language": {
+    "select": "Select language",
+    "current": "English",
+    "fr": "French",
+    "en": "English",
+    "ar": "Arabic",
+    "es": "Spanish",
+    "it": "Italian"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "projects": "Proyectos",
+    "contact": "Contacto",
+    "skills": "Habilidades",
+    "services": "Servicios"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "role": "Desarrollador Full Stack",
+    "description": "Construyo experiencias digitales excepcionales que combinan diseño elegante con funcionalidad potente",
+    "cta": "Ver mis proyectos"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "description": "Desarrollador web apasionado con sólida experiencia en la creación de aplicaciones web modernas. Me especializo en tecnologías JavaScript, particularmente React, Node.js y Next.js.",
+    "experience": "Años de Experiencia",
+    "projects": "Proyectos Completados",
+    "clients": "Clientes Satisfechos"
+  },
+  "skills": {
+    "title": "Habilidades",
+    "frontend": "Front-end",
+    "backend": "Back-end",
+    "tools": "Herramientas"
+  },
+  "services": {
+    "title": "Servicios",
+    "web_mobile": {
+      "title": "Creación de Sitios Web y Móviles Responsivos",
+      "description": "Ofrecemos una experiencia de usuario óptima en todos los dispositivos con nuestras creaciones web totalmente responsivas, garantizando una navegación fluida y una presentación impecable en cualquier pantalla"
+    },
+    "templates": {
+      "title": "Plantillas HTML y CSS",
+      "description": "Fortalezca su presencia en línea con nuestras plantillas HTML, CSS y ReactJS. Disfrute de diseños modernos y profesionales para crear fácilmente un sitio web que refleje su negocio"
+    },
+    "ui_showcase": {
+      "title": "UI y Sitio Vitrina",
+      "description": "Cree experiencias de usuario excepcionales y transforme su presencia en línea con el diseño de sitios vitrina, combinando estética y facilidad de uso para presentar su empresa de manera cautivadora y profesional"
+    }
+  },
+  "projects": {
+    "title": "Proyectos",
+    "viewProject": "Ver Proyecto",
+    "sourceCode": "Código Fuente",
+    "liveDemo": "Demo en Vivo",
+    "technologies": "Tecnologías Utilizadas"
+  },
+  "contact": {
+    "title": "Contacto",
+    "name": "Nombre",
+    "email": "Correo",
+    "message": "Mensaje",
+    "send": "Enviar",
+    "sending": "Enviando...",
+    "success": "¡Mensaje enviado con éxito!",
+    "error": "Ocurrió un error. Por favor, inténtalo de nuevo.",
+    "enterYourName": "Ingresa tu nombre",
+    "enterYourEmail": "Ingresa tu correo",
+    "enterYourMessage": "Ingresa tu mensaje",
+    "firstNameRequired": "El nombre es requerido",
+    "emailRequired": "El correo es requerido",
+    "emailInvalid": "El correo no es válido",
+    "messageRequired": "El mensaje es requerido",
+    "sendMessage": "Enviar Mensaje",
+    "messageSentSuccessfully": "¡Mensaje enviado con éxito!",
+    "errorSendingMessage": "Error al enviar el mensaje",
+    "errorSendingEmail": "Error al enviar el correo"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados",
+    "madeWith": "Hecho con",
+    "by": "por"
+  },
+  "language": {
+    "select": "Seleccionar idioma",
+    "current": "Español",
+    "fr": "Francés",
+    "en": "Inglés",
+    "ar": "Árabe",
+    "es": "Español",
+    "it": "Italiano"
+  },
+  "tabs": {
+    "projects": "Proyectos",
+    "services": "Servicios",
+    "skills": "Habilidades",
+    "about": "Sobre mí",
+    "contact": "Contacto"
+  }
+}
