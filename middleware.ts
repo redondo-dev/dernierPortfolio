@@ -6,14 +6,7 @@ export default createMiddleware({
   locales,
   localePrefix: 'as-needed',
   localeDetection: true,
-  alternateLinks: true,
-  domains: [
-    {
-      domain: 'localhost:3000',
-      defaultLocale,
-      locales: ['fr', 'en', 'ar', 'es', 'it']
-    }
-  ]
+  alternateLinks: true
 });
 
 export const config = {
