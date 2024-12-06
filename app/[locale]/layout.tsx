@@ -21,13 +21,14 @@ export default function LocaleLayout({
   params: { locale: string };
 }) {
   const messages = useMessages();
+  const isRTL = locale === 'ar';
 
   return (
-    <html lang={locale} dir={locale === 'ar' ? 'rtl' : 'ltr'}>
-      <body className={inter.className}>
+    <html lang={locale} dir={isRTL ? 'rtl' : 'ltr'}>
+      <body className={`${inter.className} ${isRTL ? 'rtl' : 'ltr'}`}>
         <Providers locale={locale} messages={messages}>
           <header className="fixed top-0 left-0 right-0 z-50 bg-white dark:bg-gray-900">
-            <nav className="container mx-auto px-4 py-4 flex justify-between items-center">
+            <nav className={`container mx-auto px-4 py-4 flex items-center ${isRTL ? 'flex-row-reverse justify-start gap-4' : 'justify-between'}`}>
               <LanguageSwitcher />
               <ThemeToggle />
             </nav>

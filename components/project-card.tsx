@@ -1,10 +1,11 @@
 "use client";
 
-import { Github } from "lucide-react";
-import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
+import { Github } from "lucide-react";
 import Image from "next/image";
+import { useTranslations } from 'next-intl';
 
 interface ProjectCardProps {
   title: string;
@@ -16,6 +17,8 @@ interface ProjectCardProps {
 }
 
 export function ProjectCard({ title, description, tech, image, github, demo }: ProjectCardProps) {
+  const t = useTranslations('projects');
+  
   return (
     <Card className="overflow-hidden">
       <div className="relative h-48">
@@ -38,12 +41,12 @@ export function ProjectCard({ title, description, tech, image, github, demo }: P
           <Button variant="outline" size="sm" asChild>
             <a href={github} target="_blank" rel="noopener noreferrer">
               <Github className="mr-2 h-4 w-4" />
-              Code
+              {t('viewCode')}
             </a>
           </Button>
           <Button size="sm" asChild>
             <a href={demo} target="_blank" rel="noopener noreferrer">
-              Live Demo
+              {t('liveDemo')}
             </a>
           </Button>
         </div>

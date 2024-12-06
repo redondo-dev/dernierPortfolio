@@ -10,7 +10,10 @@
   "hero": {
     "greeting": "Bonjour, je suis",
     "role": "Développeur Full Stack",
-    "description": "Passionné par la création d'applications web innovantes et performantes",
+    "description": "Je crée des expériences numériques exceptionnelles qui allient design élégant et fonctionnalités puissantes",
+    "contactMe": "Me Contacter",
+    "github": "GitHub",
+    "location": "Marseille, France",
     "cta": "Voir mes projets"
   },
   "about": {
@@ -56,10 +59,12 @@
     }
   },
   "projects": {
-    "title": "Projets",
+    "title": "Mes Projets",
+    "viewCode": "Code",
+    "liveDemo": "Démo Live",
+    "description": "Découvrez quelques-uns de mes projets récents",
     "viewProject": "Voir le projet",
     "sourceCode": "Code source",
-    "liveDemo": "Démo en ligne",
     "technologies": "Technologies utilisées"
   },
   "contact": {

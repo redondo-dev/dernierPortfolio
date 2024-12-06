@@ -8,9 +8,12 @@
     "services": "Services"
   },
   "hero": {
-    "greeting": "Hello, I'm",
+    "greeting": "Hi, I'm",
     "role": "Full Stack Developer",
-    "description": "Passionate about creating innovative and performant web applications",
+    "description": "I build exceptional digital experiences that combine elegant design with powerful functionality",
+    "contactMe": "Contact Me",
+    "github": "GitHub",
+    "location": "Marseille, France",
     "cta": "View my projects"
   },
   "about": {
@@ -44,11 +47,13 @@
     }
   },
   "projects": {
-    "title": "Projects",
+    "title": "My Projects",
+    "viewCode": "Code",
+    "liveDemo": "Live Demo",
+    "description": "Check out some of my recent projects",
     "viewProject": "View Project",
     "sourceCode": "Source Code",
-    "liveDemo": "Live Demo",
-    "technologies": "Technologies Used"
+    "technologies": "Technologies used"
   },
   "contact": {
     "title": "Contact",

@@ -107,3 +107,38 @@
 .light .border {
   border-color: rgba(0, 0, 0, 0.08);
 }
+
+/* Styles pour la transition de langue */
+.switching-locale {
+  opacity: 0.5;
+  pointer-events: none;
+  transition: opacity 0.3s ease-in-out;
+}
+
+/* Styles pour le support RTL */
+[dir="rtl"] .flex {
+  flex-direction: row-reverse;
+}
+
+[dir="rtl"] .ml-auto {
+  margin-left: unset;
+  margin-right: auto;
+}
+
+[dir="rtl"] .mr-auto {
+  margin-right: unset;
+  margin-left: auto;
+}
+
+/* Police pour le texte arabe */
+@font-face {
+  font-family: 'Arabic';
+  src: url('/fonts/arabic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.font-arabic {
+  font-family: 'Arabic', sans-serif;
+}

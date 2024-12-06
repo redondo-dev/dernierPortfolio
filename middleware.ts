@@ -4,9 +4,21 @@ import { locales, defaultLocale } from './config/locales';
 export default createMiddleware({
   defaultLocale,
   locales,
-  localePrefix: 'as-needed'
+  localePrefix: 'as-needed',
+  localeDetection: true,
+  alternateLinks: true,
+  domains: [
+    {
+      domain: 'localhost:3000',
+      defaultLocale,
+      locales: ['fr', 'en', 'ar', 'es', 'it']
+    }
+  ]
 });
 
 export const config = {
-  matcher: ['/((?!api|_next|_vercel|.*\\..*).*)']
+  matcher: [
+    '/((?!api|_next|_vercel|.*\\.|favicon.ico).*)',
+    '/',
+  ]
 };
