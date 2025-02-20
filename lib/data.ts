@@ -40,5 +40,29 @@ export const projects: Project[] = [
     image: "/assets/toyota-car.jpg",
     github: "https://github.com/redondo-dev/mariaVTC",
     demo: "https://amvtc13.com"
+  },
+  {
+    title: "panier E-commerce",
+    description: "Panier avec react bootstrap et une fake api e-commerce",
+    tech: ["React"],
+    image: "https://cdn.pixabay.com/photo/2019/09/30/15/23/online-shopping-4516043_640.jpg",
+    github: "https://github.com/redondo-dev/cart-e-commerce",
+    demo: "https://panier-e-commerce-en-react.firebaseapp.com"
+  },
+  {
+    title: "Portfolio Anouar",
+    description: "Portfolio pour un etudiant en science po ",
+    tech: ["Next-js"],
+    image: "/assets/anouarPortfolio.png",
+    github: "",
+    demo: "https://portfolio-anouar.vercel.app/"
+  },
+  {
+    title: "AMVTC refait en Next js",
+    description: "Site pour un chauffeur vtc Marseillais ",
+    tech: ["Next-js"],
+    image: "/assets/amvtcnext.png",
+    github: "",
+    demo: "https://amvtc-nouveau-main.vercel.app/"
   }
 ];

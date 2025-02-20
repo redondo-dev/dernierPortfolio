@@ -5,7 +5,7 @@ const withNextIntl = createNextIntlPlugin('./app/i18n.ts');
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ['flagcdn.com', 'images.pexels.com'],
+    domains: ['flagcdn.com', 'images.pexels.com', 'cdn.pixabay.com'],
   },
   output: 'standalone'
 };
