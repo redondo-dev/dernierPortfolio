@@ -39,7 +39,7 @@ export default function AboutSection() {
               transition={{ duration: 0.5, delay: 0.4 }}
             >
               <a 
-                href="/assets/CV.pdf" 
+                href="/public/assets/cv.pdf" 
                 download 
                 className="group relative px-6 py-3 rounded-lg bg-[#3b82f6] text-white overflow-hidden transition-all duration-300 hover:shadow-xl hover:shadow-blue-200 dark:hover:shadow-blue-900"
               >
@@ -57,13 +57,14 @@ export default function AboutSection() {
           >
             <div className="relative w-full aspect-square rounded-2xl overflow-hidden shadow-2xl">
               <Image
-                src="/assets/redaprofil.png"
+                src="https://res.cloudinary.com/dzyq5ko7q/image/upload/v1747561665/redaprofil_suuayp.png"  
                 alt="Profile"
                 fill
                 className="object-cover"
                 sizes="(max-width: 768px) 100vw, 50vw"
                 priority
               />
+           
             </div>
           </motion.div>
         </div>

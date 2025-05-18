@@ -11,7 +11,7 @@ import { projects } from '@/lib/data';
 export const dynamic = 'force-dynamic';
 
 export default function Home() {
-  const t = useTranslations();
+  const t = useTranslations('navigation');
 
   return (
     <main className="min-h-screen bg-gradient-to-b from-background to-secondary">
@@ -20,11 +20,11 @@ export default function Home() {
         
         <Tabs defaultValue="projects" className="space-y-8">
           <TabsList className="grid w-full grid-cols-5 max-w-[500px] mx-auto">
-            <TabsTrigger value="projects">{t('navigation.projects')}</TabsTrigger>
-            <TabsTrigger value="services">{t('navigation.services')}</TabsTrigger>
-            <TabsTrigger value="skills">{t('navigation.skills')}</TabsTrigger>
-            <TabsTrigger value="about">{t('navigation.about')}</TabsTrigger>
-            <TabsTrigger value="contact">{t('navigation.contact')}</TabsTrigger>
+            <TabsTrigger value="projects">{t('projects')}</TabsTrigger>
+            <TabsTrigger value="services">{t('services')}</TabsTrigger>
+            <TabsTrigger value="skills">{t('skills')}</TabsTrigger>
+            <TabsTrigger value="about">{t('about')}</TabsTrigger>
+            <TabsTrigger value="contact">{t('contact')}</TabsTrigger>
           </TabsList>
 
           <TabsContent value="projects" className="space-y-8">

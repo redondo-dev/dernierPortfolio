@@ -46,7 +46,7 @@ export function HeroSection() {
       </div>
       <div className="relative w-48 h-48 md:w-64 md:h-64">
         <Image
-          src="/assets/reda.jpg"
+          src="https://res.cloudinary.com/dzyq5ko7q/image/upload/v1747561665/redaprofil_suuayp.png"
           alt="Profile"
           fill
           className="rounded-full object-cover border-4 border-primary"

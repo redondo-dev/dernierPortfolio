@@ -3,9 +3,9 @@ import { Project } from './types';
 export const projects: Project[] = [
   {
     title: "Best Of Foot",
-    description: "Application web pour suivre les résultats et statistiques de football en temps réel",
+    description: "Application web pour les meilleurs footballeurs de l'histoire ",
     tech: ["React", "TypeScript", "Next.js", "Tailwind CSS"],
-    image: "/assets/bestoffoot.png",
+    image: "https://res.cloudinary.com/dzyq5ko7q/image/upload/v1747561589/bestoffoot.png",
     github: "https://github.com/redondo-dev/best10",
     demo: "https://bestl0-app.vercel.app"
   },
@@ -13,7 +13,7 @@ export const projects: Project[] = [
     title: "Cabinet Medical",
     description: "Application pour un cabinet médical d'esthetique avec epilation laser ",
     tech: ["React,Nextjs ,Tailwind css "],
-    image: "/assets/cabinetMedical.jpg",
+    image: "https://res.cloudinary.com/dzyq5ko7q/image/upload/v1747561627/cabinetMedical_qr3qky.jpg",
     github: "https://github.com/redondo-dev/cabinetMedical",
     demo: "https://cabinet-medical-gray.vercel.app"
   },
@@ -21,7 +21,7 @@ export const projects: Project[] = [
     title: "Caferiad",
     description: "Site vitrine pour un marque de café Marseillais",
     tech: ["React", "Next.js", "Tailwind CSS"],
-    image: "/assets/caferiad.png",
+    image: "https://res.cloudinary.com/dzyq5ko7q/image/upload/v1747563072/caferiad_s0ny2x.png",
     github: "https://github.com/redondo-dev/riad-cofee",
     demo: "https://riad-cofee.vercel.app"
   },
@@ -29,7 +29,7 @@ export const projects: Project[] = [
     title: "Weather App",
     description: "Application météo avec géolocalisation et prévisions sur 5 jours",
     tech: ["React-native ","Expo", "OpenWeather API" ],
-    image: "/assets/meteoApp.png",
+    image: "https://res.cloudinary.com/dzyq5ko7q/image/upload/v1747561642/meteoApp_yjtiq3.png",
     github: "https://github.com/redondo-dev/MeteoApp-",
     demo: "https://weather-app-redondo-dev.vercel.app/"
   },
@@ -37,9 +37,9 @@ export const projects: Project[] = [
     title: "AMVTC13",
     description: "Site pour un chauffeur de voiture vtc Marseillais ",
     tech: ["React"],
-    image: "/assets/toyota-car.jpg",
+    image: "https://res.cloudinary.com/dzyq5ko7q/image/upload/v1736706464/toyota-car_fz08h8.jpg",
     github: "https://github.com/redondo-dev/mariaVTC",
-    demo: "https://amvtc13.com"
+    demo: "https://amvtc13-d0249.firebaseapp.com/"
   },
   {
     title: "panier E-commerce",
@@ -53,7 +53,7 @@ export const projects: Project[] = [
     title: "Portfolio Anouar",
     description: "Portfolio pour un etudiant en science po ",
     tech: ["Next-js"],
-    image: "/assets/anouarPortfolio.png",
+    image: "https://res.cloudinary.com/dzyq5ko7q/image/upload/v1747563068/anouarPortfolio_xah9zn.png",
     github: "",
     demo: "https://portfolio-anouar.vercel.app/"
   },
@@ -61,8 +61,8 @@ export const projects: Project[] = [
     title: "AMVTC refait en Next js",
     description: "Site pour un chauffeur vtc Marseillais ",
     tech: ["Next-js"],
-    image: "/assets/amvtcnext.png",
-    github: "",
-    demo: "https://amvtc-nouveau-main.vercel.app/"
+    image: "https://res.cloudinary.com/dzyq5ko7q/image/upload/v1747563067/amvtcnext_czeyxx.png",
+    github: "privé",
+    demo: "https://www.marseilletaxivtc.com/"
   }
 ];

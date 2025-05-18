@@ -29,9 +29,9 @@
     "title": "Chi sono",
     "description": "Sviluppatore web appassionato con solida esperienza nella creazione di applicazioni web moderne. Mi specializzo in tecnologie JavaScript, in particolare React, Node.js e Next.js.",
     "experience": "Anni di Esperienza",
-    "projects": "Progetti Completati",
+    "projects": "Progetti Completati", 
     "clients": "Clienti Soddisfatti",
-    "text": "Come sviluppatore Full Stack appassionato, ho forgiato la mia esperienza attraverso una formazione intensiva di 8 mesi presso AFPA, completata da un continuo apprendimento autodidatta. Questo approccio duplice mi ha permesso di sviluppare una profonda comprensione delle tecnologie web moderne.\n\nLa mia esperienza front-end copre l'intero ecosistema React, inclusi React.js, Redux, Redux Toolkit, così come i framework CSS moderni come Material UI, React Bootstrap e Tailwind CSS. Questa padronanza mi permette di creare interfacce utente eleganti ed efficienti.\n\nSul lato back-end, ho acquisito una solida esperienza con PHP e SQL, e mi sono evoluto verso le tecnologie Node.js, Express e MongoDB, abbracciando così architetture moderne full JavaScript. Questa versatilità mi permette di gestire l'intero stack tecnico di un progetto.\n\nIn costante evoluzione, attualmente mi sto formando su Next.js e React Native, con l'ambizione di diventare un esperto sviluppatore Full Stack, capace di creare applicazioni web e mobile complete e innovative.",
+    "text":"Sviluppatore Full Stack appassionato, attualmente sto seguendo una laurea in Angular presso Studi e sono alla ricerca di un apprendistato o di un periodo di formazione di 2-6 mesi, idealmente su progetti Angular/Node.js   ",
     "downloadCV": "Scarica CV"
   },
   "skills": {

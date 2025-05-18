@@ -10,7 +10,7 @@
   "hero": {
     "greeting": "Bonjour, je suis",
     "role": "Développeur Full Stack",
-    "description": "Je crée des expériences numériques exceptionnelles qui allient design élégant et fonctionnalités puissantes",
+    "description": "Je crée des expériences numériques qui allient design élégant et fonctionnalités puissantes",
     "contactMe": "Me Contacter",
     "github": "GitHub",
     "location": "Marseille, France",
@@ -18,11 +18,11 @@
   },
   "about": {
     "title": "À propos de moi",
-    "description": "Développeur web passionné avec une solide expérience dans la création d'applications web modernes. Je me spécialise dans les technologies JavaScript, notamment React, Node.js et Next.js.",
+    "description": "Développeur web passionné avec une expérience dans la création d'applications web modernes. Je me spécialise dans les technologies JavaScript, notamment React, Node.js et Next.js.",
     "experience": "Années d'expérience",
     "projects": "Projets réalisés",
     "clients": "Clients satisfaits",
-    "text": "Développeur Full Stack passionné, j'ai forgé mon expertise à travers une formation intensive de 8 mois à l'AFPA, complétée par un apprentissage autodidacte continu. Cette double approche m'a permis de développer une compréhension approfondie des technologies web modernes.\n\nMon expertise front-end s'étend sur l'ensemble de l'écosystème React, incluant React.js, Redux, Redux Toolkit, ainsi que les frameworks CSS modernes comme Material UI, React Bootstrap et Tailwind CSS. Cette maîtrise me permet de créer des interfaces utilisateur élégantes et performantes.\n\nCôté back-end, j'ai acquis une solide expérience avec PHP et SQL, et j'ai évolué vers les technologies Node.js, Express et MongoDB, embrassant ainsi les architectures modernes full JavaScript. Cette polyvalence me permet de gérer l'intégralité de la stack technique d'un projet.\n\nEn constante évolution, je me forme actuellement sur Next.js et React Native, avec l'ambition de devenir un développeur Full Stack expert, capable de créer des applications web et mobiles complètes et innovantes.",
+    "text": "Développeur Full Stack passionné, je poursuis actuellement un Bachelor Angular chez Studi et je suis à la recherche d'une alternance ou d'un stage de 2 à 6 mois, idéalement sur des projets Angular ou Angular/Node.js. Mon parcours s'appuie sur une formation intensive de 8 mois à l'AFPA, enrichie par un apprentissage autodidacte constant, ce qui m'a permis d'acquérir une solide maîtrise des technologies web modernes.\nAujourd'hui, je concentre mon expertise sur l'écosystème Angular, tout en continuant à explorer et approfondir les outils et frameworks actuels. Mon objectif : devenir un développeur Full Stack expert, capable de concevoir des applications web et mobiles performantes et innovantes.\nCurieux, rigoureux et toujours motivé par de nouveaux défis, j'attache une grande importance à la qualité du code, à l'expérience utilisateur et au travail en équipe. Je suis prêt à m'investir pleinement dans des projets ambitieux pour contribuer à leur réussite et continuer à progresser dans mon métier",
     "downloadCV": "Télécharger CV"
   },
   "skills": {
@@ -43,7 +43,7 @@
     },
     "consulting": {
       "title": "Conseil Technique",
-      "description": "Expertise et conseils en architecture logicielle"
+      "description": "conseils en architecture logicielle"
     },
     "web_mobile": {
       "title": "Creation de sites web et mobiles Responsives",
