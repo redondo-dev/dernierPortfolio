@@ -72,7 +72,7 @@ export function ProjectCard({ title, description, tech, image, github, demo }: P
               {t('viewCode')}
             </a>
           </Button>
-          <Button size="sm" asChild>
+          <Button size="sm" asChild  className="dark:bg-red-500 dark:hover:bg-red-800">
             <a href={demo} target="_blank" rel="noopener noreferrer">
               {t('liveDemo')}
             </a>

@@ -11,15 +11,15 @@ interface Service {
 
 const services: Service[] = [
   {
-    icon: <Laptop className="h-8 w-8" />,
+    icon: <Laptop className="h-8 w-8 text-[#F05032]" />,
     translationKey: "web_mobile"
   },
   {
-    icon: <Code2 className="h-8 w-8" />,
+    icon: <Code2 className="h-8 w-8 text-[#F05032]"  />,
     translationKey: "templates"
   },
   {
-    icon: <Layout className="h-8 w-8" />,
+    icon: <Layout className="h-8 w-8 text-[#F05032]" />,
     translationKey: "ui_showcase"
   }
 ];

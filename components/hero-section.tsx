@@ -27,7 +27,7 @@ export function HeroSection() {
         </p>
         <div className="flex gap-4">
           <Link href="/contact">
-            <Button>
+            <Button  className=" bg-blue-500  hover:bg-blue-600">
               <Mail className="mr-2 h-4 w-4" />
               {t('contactMe')}
             </Button>
