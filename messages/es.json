@@ -48,9 +48,11 @@
   },
   "projects": {
     "title": "Proyectos",
+    "viewCode": "Ver Código",
     "viewProject": "Ver Proyecto",
     "sourceCode": "Código Fuente",
     "liveDemo": "Demo en Vivo",
+    "description": "Echa un vistazo a algunos de mis proyectos recientes",
     "technologies": "Tecnologías Utilizadas"
   },
   "contact": {

@@ -47,10 +47,11 @@
     }
   },
   "projects": {
-    "title": "المشاريع",
-    "description": "اكتشف مشاريعي الأخيرة",
-    "viewcode": "عرض الكود",
+    "title": "مشاريعي",
+    "viewCode": "عرض الكود",
     "liveDemo": "عرض حي",
+    "description": "تصفح بعضًا من أحدث مشاريعي",
+    "viewProject": "عرض المشروع",
     "sourceCode": "الكود المصدري",
     "technologies": "التقنيات المستخدمة"
   },

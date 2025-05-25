@@ -32,20 +32,21 @@
     "tools": "Tools"
   },
   "services": {
-    "title": "Services",
-    "webdev": {
-      "title": "Web Development",
-      "description": "Creation of responsive and performant websites"
-    },
-    "mobile": {
-      "title": "Mobile Applications",
-      "description": "Development of native and hybrid mobile applications"
-    },
-    "consulting": {
-      "title": "Technical Consulting",
-      "description": "Expertise and advice in software architecture"
-    }
+  "title": "Services",
+  "web_mobile": {
+    "title": "Web & Mobile Development",
+    "description": "Creation of responsive and performant websites and mobile applications"
   },
+  "templates": {
+    "title": "Custom Templates",
+    "description": "Tailor-made templates adapted to your needs"
+  },
+  "ui_showcase": {
+    "title": "UI Showcase",
+    "description": "Modern and intuitive user interfaces"
+  }
+  },
+
   "projects": {
     "title": "My Projects",
     "viewCode": "Code",
