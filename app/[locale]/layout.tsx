@@ -25,7 +25,7 @@ export default function LocaleLayout({
 
   return (
     <html lang={locale} dir={isRTL ? 'rtl' : 'ltr'}>
-      <body className={`${inter.className} ${isRTL ? 'rtl' : 'ltr'}`}>
+      <body className={`${inter.className} ${isRTL ? 'rtl' : ''}`}>
         <Providers locale={locale} messages={messages}>
           <header className="fixed top-0 left-0 right-0 z-50 bg-white dark:bg-gray-900">
             <nav className={`container mx-auto px-4 py-4 flex items-center ${isRTL ? 'flex-row-reverse justify-start gap-4' : 'justify-between'}`}>
