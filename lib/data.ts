@@ -54,7 +54,7 @@ export const projects: Project[] = [
     description: "Portfolio pour un etudiant en science po ",
     tech: ["Next-js"],
     image: "https://res.cloudinary.com/dzyq5ko7q/image/upload/v1747563068/anouarPortfolio_xah9zn.png",
-    github: "",
+    github: "https://github.com/redondo-dev/AnourPortfolio",
     demo: "https://portfolio-anouar.vercel.app/"
   },
   {
@@ -64,5 +64,13 @@ export const projects: Project[] = [
     image: "https://res.cloudinary.com/dzyq5ko7q/image/upload/v1747563067/amvtcnext_czeyxx.png",
     github: "privé",
     demo: "https://www.marseilletaxivtc.com/"
+  },
+  {
+    title: "Site cinema redaflix :en cours de developpement",
+    description: "Recuperation d'une api cinema IMDB ",
+    tech: ["Angular19-Nodejs-Express-Sql"],
+    image: "https://res.cloudinary.com/dzyq5ko7q/image/upload/v1749030865/redaflix_is7wsi.png",
+    github: "https://github.com/redondo-dev/cinematek_Angular",
+    demo: ""
   }
 ];
