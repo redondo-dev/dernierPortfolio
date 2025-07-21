@@ -95,7 +95,7 @@ const skillCategories: SkillCategory[] = [
       { name: "Git", icon: <SiGit className="text-[#F05032]" /> },
       { name: "VS Code", icon: <SiVisualstudiocode className="text-[#007ACC]" /> },
       { name: "npm", icon: <SiNpm className="text-[#CB3837]" /> },
-      { name: "docker", icon: <SiDocker className="text-[#CB3837]" /> }
+      { name: "docker", icon: <SiDocker className="text-[#007ACC]" /> }
     ]
   },
   {
