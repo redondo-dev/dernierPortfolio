@@ -67,10 +67,10 @@ export const projects: Project[] = [
   },
   {
     title: "Site cinema redaflix :en cours de developpement",
-    description: "Recuperation d'une api cinema IMDB ",
-    tech: ["Angular19",'Nodejs','Express','Sql'],
+    description: "Recuperation d'une api cinema IMDB et ajout de register,login,logout,reservations ",
+    tech: ["Angular19",'Nodejs','Express','Sql', 'docker', 'fly.io'],
     image: "https://res.cloudinary.com/dzyq5ko7q/image/upload/v1749030865/redaflix_is7wsi.png",
     github: "https://github.com/redondo-dev/cinematek_Angular",
-    demo: ""
+    demo: "https://redaflix-frontend.fly.dev/"
   }
 ];

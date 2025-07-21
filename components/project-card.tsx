@@ -28,7 +28,7 @@ export function ProjectCard({ title, description, tech, image, github, demo }: P
   const handleImageError = () => {
     if (!imgError) {
       setImgError(true);
-      // Fallback to a placeholder image if the image fails to load
+    
       setImgSrc('/assets/placeholder.jpg');
     }
   };
@@ -37,7 +37,7 @@ export function ProjectCard({ title, description, tech, image, github, demo }: P
   const imageProps = isExternalImage 
     ? {
         src: imgSrc,
-        unoptimized: true, // Required for external images not in next.config.js domains
+        unoptimized: true, 
       }
     : {
         src: imgSrc,
