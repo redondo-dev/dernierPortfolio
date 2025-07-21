@@ -30,7 +30,8 @@ import {
   SiJsonwebtokens,
   SiPostman,
   SiHyper,
-  SiJest
+  SiJest,
+  SiDocker
 } from "react-icons/si";
 import { TbBrandReactNative } from "react-icons/tb";
 
@@ -93,7 +94,8 @@ const skillCategories: SkillCategory[] = [
     skills: [
       { name: "Git", icon: <SiGit className="text-[#F05032]" /> },
       { name: "VS Code", icon: <SiVisualstudiocode className="text-[#007ACC]" /> },
-      { name: "npm", icon: <SiNpm className="text-[#CB3837]" /> }
+      { name: "npm", icon: <SiNpm className="text-[#CB3837]" /> },
+      { name: "docker", icon: <SiDocker className="text-[#CB3837]" /> }
     ]
   },
   {
