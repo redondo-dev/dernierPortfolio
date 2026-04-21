@@ -34,6 +34,9 @@ import {
   SiDocker,
   SiSwagger,
   SiTrello,
+  SiCypress,
+  SiIonic,
+  SiElectron,
 } from "react-icons/si";
 import { TbBrandReactNative } from "react-icons/tb";
 
@@ -52,6 +55,7 @@ const skillCategories: SkillCategory[] = [
       { name: "HTML5", icon: <SiHtml5 className="text-[#E34F26]" /> },
       { name: "CSS3", icon: <SiCss3 className="text-[#1572B6]" /> },
       { name: "JavaScript", icon: <SiJavascript className="text-[#F7DF1E]" /> },
+      { name: "TypeScript", icon: <SiTypescript className="text-[#3178C6]" /> },
       {
         name: "React Native",
         icon: <TbBrandReactNative className="text-[#61DAFB]" />,
@@ -65,6 +69,7 @@ const skillCategories: SkillCategory[] = [
   {
     title: "UI Frameworks & Libraries",
     skills: [
+      { name: "Angular", icon: <SiAngular className="text-[#CA4245] " /> },
       { name: "React.js", icon: <SiReact className="text-[#61DAFB]" /> },
       { name: "Next.js", icon: <SiNextdotjs /> },
       { name: "Redux Toolkit", icon: <SiRedux className="text-[#764ABC]" /> },
@@ -119,9 +124,10 @@ const skillCategories: SkillCategory[] = [
   {
     title: "En cours ",
     skills: [
-      { name: "TypeScript", icon: <SiTypescript className="text-[#3178C6]" /> },
-      { name: "Angular", icon: <SiAngular className="text-[#CA4245] " /> },
       { name: "Jest", icon: <SiJest className="text-[#C21325]" /> },
+      { name: "Cypress", icon: <SiCypress className="text-[#69D3A7]" /> },
+      { name: "Ionic", icon: <SiIonic className="text-[#3880FF]" /> },
+      { name: "Electron", icon: <SiElectron className="text-[#47848F]" /> },
     ],
   },
 ];
